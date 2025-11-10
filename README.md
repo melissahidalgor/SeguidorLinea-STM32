@@ -28,7 +28,10 @@ La Lógica Difusa permite que el carrito tome decisiones adaptativas y fluidas a
 3. **Defuzzificación (Salidas PWM):** Se utiliza el centroide para convertir la salida difusa (Baja, Media, Alta) en un valor numérico de PWM (0 a 800).
 
 ## 🎥 Video 
+[https://drive.google.com/file/d/1-XZC_Tf9S0zmL3UJ1JFDIxQtHfUZZFCX/view?usp=sharing](https://drive.google.com/file/d/1-XZC_Tf9S0zmL3UJ1JFDIxQtHfUZZFCX/view?usp=sharing)
+
+[https://drive.google.com/file/d/1YVrNEFv-BSSDAJJgz_M3N77wPq2cuvl0/view?usp=sharing](https://drive.google.com/file/d/1YVrNEFv-BSSDAJJgz_M3N77wPq2cuvl0/view?usp=sharing)
 
 ## 🖼️ Montaje
 
-
+![Texto alternativo](Documentacion/CarritoLinea.png)
